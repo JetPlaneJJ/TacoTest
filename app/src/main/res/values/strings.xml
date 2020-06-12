@@ -2,4 +2,7 @@
     <string name="app_name">Test Application</string>
     <string name="text_label_1">Home</string>
     <string name="text_label_2">Search</string>
+    <string name="text_label_3">Camera</string>
+    <string name="text_label_4">Messages</string>
+    <string name="text_label_5">Profile</string>
 </resources>
